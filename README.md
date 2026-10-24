@@ -202,6 +202,7 @@ O desenvolvimento do pipeline e do dashboard foi estruturado em Sprints, garanti
 
 Abaixo está o quadro detalhado do nosso planejamento e evolução ao longo das etapas:
 
+
 ## 🏃‍♂️ Gestão Ágil e Sprints
 
 
