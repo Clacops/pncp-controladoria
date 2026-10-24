@@ -1,0 +1,97 @@
+================================================================================
+AUDITORIA DE ITENS - DETALHAMENTO DE CICLO DE COMPRAS
+================================================================================
+
+ITEM 1
+Controle PNCP.: 40176679000199-1-000032/2025 (Item 2)
+Órgão.........: FUNDACAO BIBLIOTECA NACIONAL
+Descrição.....: CARIMBO
+Dias Ciclo....: 171
+Publicação....: 05/05/2025
+Homologação...: 23/10/2025
+--------------------------------------------------------------------------------
+
+ITEM 2
+Controle PNCP.: 40176679000199-1-000032/2025 (Item 1)
+Órgão.........: FUNDACAO BIBLIOTECA NACIONAL
+Descrição.....: CARIMBO
+Dias Ciclo....: 171
+Publicação....: 05/05/2025
+Homologação...: 23/10/2025
+--------------------------------------------------------------------------------
+
+ITEM 3
+Controle PNCP.: 24416174000106-1-000104/2025 (Item 1)
+Órgão.........: UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+Descrição.....: PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA
+Dias Ciclo....: 140
+Publicação....: 25/08/2025
+Homologação...: 12/01/2026
+--------------------------------------------------------------------------------
+
+ITEM 4
+Controle PNCP.: 24416174000106-1-000104/2025 (Item 2)
+Órgão.........: UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+Descrição.....: FILTRO DE ÁGUA
+Dias Ciclo....: 140
+Publicação....: 25/08/2025
+Homologação...: 12/01/2026
+--------------------------------------------------------------------------------
+
+ITEM 5
+Controle PNCP.: 00402552000126-1-000018/2025 (Item 9)
+Órgão.........: COMISSAO NACIONAL DE ENERGIA NUCLEAR
+Descrição.....: ETIQUETA AUTO - ADESIVA
+Dias Ciclo....: 105
+Publicação....: 20/02/2025
+Homologação...: 05/06/2025
+--------------------------------------------------------------------------------
+
+ITEM 6
+Controle PNCP.: 00402552000126-1-000018/2025 (Item 8)
+Órgão.........: COMISSAO NACIONAL DE ENERGIA NUCLEAR
+Descrição.....: ETIQUETA AUTO - ADESIVA
+Dias Ciclo....: 105
+Publicação....: 20/02/2025
+Homologação...: 05/06/2025
+--------------------------------------------------------------------------------
+
+ITEM 7
+Controle PNCP.: 00402552000126-1-000018/2025 (Item 7)
+Órgão.........: COMISSAO NACIONAL DE ENERGIA NUCLEAR
+Descrição.....: ETIQUETA AUTO - ADESIVA
+Dias Ciclo....: 105
+Publicação....: 20/02/2025
+Homologação...: 05/06/2025
+--------------------------------------------------------------------------------
+
+ITEM 8
+Controle PNCP.: 00509968000148-1-002167/2025 (Item 2)
+Órgão.........: TRIBUNAL SUPERIOR DO TRABALHO
+Descrição.....: CARTUCHO TINTA IMPRESSORA LEXMARK
+Dias Ciclo....: 78
+Publicação....: 17/07/2025
+Homologação...: 03/10/2025
+--------------------------------------------------------------------------------
+
+ITEM 9
+Controle PNCP.: 26963660000161-1-000063/2025 (Item 2)
+Órgão.........: FUNDACAO NACIONAL DE ARTES FUNARTE
+Descrição.....: CÂMERA VIDEOCONFERÊNCIA RESOLUÇÃO: 1080 X 1920, TIPO LENTE: 
+                FOCO AUTOMÁTICO, VELOCIDADE TRANSMISSÃO VÍDEO: 60, 
+                CARACTERÍSTICAS ADICIONAIS: WEBCAM USB COM MICROFONE EMBUTIDO
+Dias Ciclo....: 70
+Publicação....: 23/09/2025
+Homologação...: 02/12/2025
+--------------------------------------------------------------------------------
+
+ITEM 10
+Controle PNCP.: 26963660000161-1-000063/2025 (Item 3)
+Órgão.........: FUNDACAO NACIONAL DE ARTES FUNARTE
+Descrição.....: TESTADOR BATERIA: 9, APLICAÇÃO: TESTADOR DE CABOS, 
+                CONECTORES: RJ - 45, CARACTERÍSTICAS ADICIONAIS: C/LED'S 
+                INDICADORES LOCAL/DEFEITO E CONEXÕES INTER
+Dias Ciclo....: 70
+Publicação....: 23/09/2025
+Homologação...: 02/12/2025
+================================================================================
